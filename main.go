@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	// "github.com/DADDY0055/go_protocol_buffers_e2e_test/proto"
+	"github.com/DADDY0055/go_protocol_buffers_e2e_test/proto"
 	"github.com/labstack/echo/v4"
 )
 
