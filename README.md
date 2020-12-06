@@ -1,0 +1,2 @@
+# go_protocol_buffers_e2e_test
+Go/EchoでProtocolBuffersを使ったE2Eテストのサンプル
